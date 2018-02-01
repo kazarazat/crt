@@ -1,7 +1,7 @@
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 # Computational Reading Test
-This demo code is meant to accompany my [Medium post](https://medium.com/@kazarazat/testing-if-machines-can-read-b15bcbaeae51) article outlining a formula and method to test basic reading comprehension in a computational system. This code demonstrates computational recognition of the words in an inputted sentence including: sentence typology, presence of the sentence words in the dictionary and definitions of the words. 
+This demo code is meant to accompany my [Medium](https://medium.com/@kazarazat/testing-if-machines-can-read-b15bcbaeae51) article outlining a formula and method to test basic reading comprehension in a computational system. This code demonstrates computational recognition of the words in an inputted sentence including: sentence typology, presence of the sentence words in the dictionary and definitions of the words. 
 
 # How it Works
 * Input a sentence as a string
