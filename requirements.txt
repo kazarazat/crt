@@ -1,0 +1,2 @@
+nltk==3.2.2
+simplejson==3.6.5
