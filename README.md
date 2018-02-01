@@ -32,5 +32,8 @@ Get API credentials [Oxford Dictionaries](https://developer.oxforddictionaries.c
 
 **The Output**
 ```sh
-{"defined_words": ["brown", "lazy", "jump", "fox", "dog", "quick"], "stopwords_found": ["the", "over", "the"], "sentence_typology": ["subject", "verb", "object"], "definitions": ["of a colour produced by mixing red, yellow, and blue, as of dark wood or rich soil", "unwilling to work or use energy", "push oneself off a surface and into the air by using the muscles in one's legs and feet", "a carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbial for its cunning.", "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice.", "moving fast or doing something in a short time"], "total_words_read": 9, "reading_rate": "0.3587 per word", "comprehension_time": 3.22831, "comprehension_rate": 100.0}
+{"defined_words": ["brown", "lazy", "jump", "fox", "dog", "quick"], "stopwords_found": ["the", "over", "the"],<br/> 
+"sentence_typology": ["subject", "verb", "object"], "definitions": ["of a colour produced by mixing red, yellow,<br/> 
+and blue, as of dark wood or rich soil", "unwilling to work or use energy", "push oneself off a surface and into<br/>
+the air by using the muscles in one's legs and feet", "a carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbial for its cunning.", "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice.", "moving fast or doing something in a short time"], "total_words_read": 9, "reading_rate": "0.3587 per word", "comprehension_time": 3.22831, "comprehension_rate": 100.0}
 ```
