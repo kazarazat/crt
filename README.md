@@ -13,6 +13,10 @@ This demo code is meant to accompany my [Medium](https://medium.com/@kazarazat/t
 * Calculates the time taken to recognize and define the words
 * Outputs a JSON for verification
 
+# The Formula
+
+![Reading Rate](https://cdn-images-1.medium.com/max/1600/1*p3As7tOm-FmgUenj40VVBw.png)
+
 # Modules
 **Install the requirements with pip**
 
