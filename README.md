@@ -15,7 +15,10 @@ This demo code is meant to accompany my [Medium](https://medium.com/@kazarazat/t
 
 # The Formula
 
-![Reading Rate](https://cdn-images-1.medium.com/max/1600/1*p3As7tOm-FmgUenj40VVBw.png)
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/1600/1*p3As7tOm-FmgUenj40VVBw.png">
+</p>
+
 
 # Modules
 **Install the requirements with pip**
